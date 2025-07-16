@@ -3,7 +3,7 @@ By Rafael Xolio
 
 
 ## Description
-This is a recopilation of Questions and Answer commonly used for interviews, I hope this can help you as preparation for your interviews and exams.
+This is a recopilation of Questions and Answer commonly used for interviews, I hope this can help you as guide for preparation of your interviews and exams.
 
 
 ## QUESTIONS & ANSWERS
