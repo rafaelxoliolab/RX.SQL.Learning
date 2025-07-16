@@ -7,5 +7,5 @@ This is a recopilation of Questions and Answer commonly used for interviews, I h
 
 
 ## QUESTIONS & ANSWERS
-**What is an Inner Join?**
+**What is an Inner Join?** \
 Inner join selects matching records from both tables.
