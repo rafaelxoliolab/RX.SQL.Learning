@@ -7,5 +7,13 @@ This is a recopilation of Questions and Answer commonly used for interviews, I h
 
 
 ## QUESTIONS & ANSWERS
-**What is an Inner Join?** \
+
+
+**What are Inner Joins?** \
 Inner join selects matching records from both tables.
+
+```sql
+select * from employee
+inner join employeeDepartment
+on employee.Id = employeeDepartment.EmployeeId
+```
