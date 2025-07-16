@@ -9,11 +9,20 @@ This is a recopilation of Questions and Answer commonly used for interviews, I h
 ## QUESTIONS & ANSWERS
 
 
-**What are Inner Joins?** \
-Inner join selects matching records from both tables.
+**What are INNER JOINS?** \
+Inner Join selects only matching records from both tables.
 
 ```sql
 select * from employee
 inner join employeeDepartment
+on employee.Id = employeeDepartment.EmployeeId
+```
+
+**What are LEFT JOINS?** \
+Left Join selects ALL data from the left table and only matching records from right table. The not matching records from the right table will be return as NULL.
+
+```sql
+select * from employee
+left join employeeDepartment
 on employee.Id = employeeDepartment.EmployeeId
 ```
